@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a18c873a.chunk.css",
-    "main.js": "/static/js/main.9e625aff.chunk.js",
-    "main.js.map": "/static/js/main.9e625aff.chunk.js.map",
+    "main.js": "/static/js/main.0581f168.chunk.js",
+    "main.js.map": "/static/js/main.0581f168.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.bd26c2bd.chunk.js": "/static/js/2.bd26c2bd.chunk.js",
     "static/js/2.bd26c2bd.chunk.js.map": "/static/js/2.bd26c2bd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0592415b80bc07cb8417a25871323301.js": "/precache-manifest.0592415b80bc07cb8417a25871323301.js",
+    "precache-manifest.fabedf1a1661884a897f5eb8f04e7824.js": "/precache-manifest.fabedf1a1661884a897f5eb8f04e7824.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a18c873a.chunk.css.map": "/static/css/main.a18c873a.chunk.css.map",
     "static/media/SQ1-home-1.jpg": "/static/media/SQ1-home-1.8880b6c9.jpg",
